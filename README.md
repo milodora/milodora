@@ -14,8 +14,8 @@
 
 ### About me
 
-- 👩‍🎓 I have an economic higher education and several years experience in data analysis and demand planning.  <a href="https://t.me/bal_vita">
-    <"Telegram"/>
+- 👩‍🎓 I have an economic higher education and several years experience in data analysis and demand planning.  <a href="https://pskov.hh.ru/applicant/resumes/view?resume=d3619c63ff0c38b8560039ed1f587956743173">
+    "My CV"
   </a>
 - 👀 After advanced training with several courses I'm looking for an interesting work with data analysis to applying my knowledge and skills.
 
