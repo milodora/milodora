@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="[linkedin-url](https://ru.linkedin.com/in/victoria-balanovskaya-422b4141)">
+    <a href="https://ru.linkedin.com/in/victoria-balanovskaya-422b4141">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    <a href="https://t.me/bal_vita">
