@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
+- 🌱 I’m currently learning **Python, SQL**
 
 ---
 
