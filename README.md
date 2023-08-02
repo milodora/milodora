@@ -13,14 +13,15 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Python, SQL**
 
+- 👩‍🎓 I have an economic higher education and several years experience in data analysis and demand planning.  <a href="https://t.me/bal_vita">
+    <"Telegram"/>
+  </a>
+- 👀 After advanced training with several courses I'm looking for an interesting work with data analysis to applying my knowledge and skills.
+
+Tools:
+💼 Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, PostgreSQL, Tableau
 ---
-
-### Languages and tools
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 
 
 
